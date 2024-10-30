@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently working on completing the BIT program. My goal is to publish more content to githib this term.
+
 <!--
 **scharriere14/scharriere14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
